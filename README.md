@@ -25,7 +25,7 @@ Numclass 9:Infinity
 
 Numclass 10:Absolute Infinity
 
-After this,All the Numbers are the version in my video,so it's not true.
+After this,All the Numbers are the version in my video,so it's not real.
 
 Numclass 20:Absolute Reinfinity/FG Class 3
 
@@ -59,4 +59,16 @@ Numendaclass 10:<nowiki><G.O.D.></nowiki>
 
 Class II:Endlass
 
-Endlass 1:Endless
+Endlass 1:Endless/FG Class G64
+
+Endlass 1.5:Endless Endless/FG Class TREE[3]
+
+Endlass 2:Ete-Hyper 1 Cardinal/FG Class Ω
+
+Endlass 3:THE END/FG Class FG Class 10
+
+Endlass 5:Mata-Hyper 1 Cardinal/FG Super Class 10
+
+Endlass 7.5:THE BIG RIP/FG Super Class Ω
+
+Endlass 10:THE ULTIMATE REBIRTH/FG Mega Class 10
